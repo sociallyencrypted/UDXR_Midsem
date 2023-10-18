@@ -1,0 +1,22 @@
+<dependencies>
+  <compile
+      roots="/Users/sociallyencrypted/My project (1)/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release">
+    <dependency
+        name="/Users/sociallyencrypted/My project (1)/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="/Users/sociallyencrypted/My project (1)/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release,__local_aars__:/Users/sociallyencrypted/My project (1)/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar,com.google.ar:core:1.32.0@aar,:VuforiaEngine:@aar,androidx.annotation:annotation:1.3.0@jar">
+    <dependency
+        name="/Users/sociallyencrypted/My project (1)/Library/Bee/Android/Prj/Mono2x/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:/Users/sociallyencrypted/My project (1)/Library/Bee/Android/Prj/Mono2x/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name="com.google.ar:core:1.32.0@aar"/>
+    <dependency
+        name=":VuforiaEngine:@aar"/>
+    <dependency
+        name="androidx.annotation:annotation:1.3.0@jar"/>
+  </package>
+</dependencies>

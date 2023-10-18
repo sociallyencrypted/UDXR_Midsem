@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="back_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="health_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="mirror_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="knowledge_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="fireball_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="evil_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="stoneskin_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="charm_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="magic_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="lifelines_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="lightning_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="burning_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="speed_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="shield_yellow" size="1.000000 1.500000" />
+    <ImageTarget name="vampiric_yellow" size="1.000000 1.500000" />
+  </Tracking>
+</QCARConfig>
